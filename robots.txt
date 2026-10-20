@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://main--vthakur25--eds-october.aem.live/sitemap.xml
